@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-#define Finger_RST_Pin 14
-#define Finger_WAKE_Pin 33
+#define Finger_RST_Pin 8
+#define Finger_WAKE_Pin 9
 
 #define TRUE 1
 #define FALSE 0
